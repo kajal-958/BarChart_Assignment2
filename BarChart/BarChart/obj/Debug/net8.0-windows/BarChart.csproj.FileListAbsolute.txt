@@ -1,0 +1,16 @@
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.Form1.resources
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.csproj.GenerateResource.cache
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.GeneratedMSBuildEditorConfig.editorconfig
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.AssemblyInfoInputs.cache
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.AssemblyInfo.cs
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.csproj.CoreCompileInputs.cache
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\bin\Debug\net8.0-windows\BarChart.exe
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\bin\Debug\net8.0-windows\BarChart.deps.json
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\bin\Debug\net8.0-windows\BarChart.runtimeconfig.json
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\bin\Debug\net8.0-windows\BarChart.dll
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\bin\Debug\net8.0-windows\BarChart.pdb
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.dll
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\refint\BarChart.dll
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.pdb
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\BarChart.genruntimeconfig.cache
+C:\SemClasses3\SODV2101 RAPID\BarChart\BarChart\obj\Debug\net8.0-windows\ref\BarChart.dll
